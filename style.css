@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+}
+.wrapper {
+    background-image: url(./IMAGE\ \(18\).png);
+    width: 1440px;
+    height: 540px;
+}
+.wrapper ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 16px;
+    margin: 0 auto;
+    color: rgba(0, 214, 180, 1);
+    font-size: 11px;
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;
+}
+.wrapper ul {
+    display: inline-block;
+    margin-left: 70%;
+    margin-top: 20px;
+}
+.wrapper ul h1 {
+    color: rgba(255, 255, 255, 1);
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'Lato', sans-serif;
+    display: inline-block;
+    position: absolute;
+    margin-left: -55%;
+    margin-top: 15px;
+}
+.wrapper p {
+    width: 465px;
+    height: 106px;
+    font-weight: 600;
+    font-size: 48px;
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Lato', sans-serif;
+    position: absolute;
+    margin-left: 35%;
+    margin-top: 150px;
+}
+.wrapper button {
+    width: 137px;
+    height: 39px;
+    font-weight: 400;
+    font-size: 13px;
+    font-family: 'Lato', sans-serif;
+    color: rgba(0, 214, 180, 1);
+    position: absolute;
+    margin-top: 350px;
+    margin-left: -45%;
+}
+
+.photo1 {
+    background: #222;
+    width: 1440px;
+    height: 1050px;
+}
+.photo1 h1 { 
+    font-weight: 400;
+    font-size: 25px;
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+.photo1 img {
+   display: f=inline-block;
+   border-radius: 3px;
+   padding: 0px 0px 0px;
+   margin-left: 8%;
+   margin-top: 20px;
+}
+.photo1 h2 {
+    color: rgba(194, 194, 194, 1);
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 150px;
+    position: absolute;
+    margin-left: 47.5%;
+}
+.photo1 p {
+    color: rgba(153, 153, 153, 1);
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 170px;
+    position: absolute;
+    margin-left: 46%;
+}
